@@ -15,6 +15,6 @@ AI Engineer with experience building production-ready **LLM**, **Agentic AI**, *
   - Built enterprise AI interview and chatbot systems.
   - Optimized AI inference cost, latency, and scalability.
 
-- 💼 **AI Engineer** @ **DevTechGuru Limited** *(Jan 2024 – Jul 2025)*
+- 💼 **ML Engineer** @ **DevTechGuru Limited** *(Feb 2024 – Jul 2025)*
   - Developed healthcare AI, YOLO-based ANPR, and Django backend systems.
 
