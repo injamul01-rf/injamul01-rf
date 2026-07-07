@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Injamul! 👋
 
-<!--
-**injamul01-rf/injamul01-rf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=AI+Engineer;LLM+%7C+Agentic+AI+%7C+RAG;Computer+Vision+%7C+NLP;Python+Backend+Developer" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI Engineer with experience building production-ready **LLM**, **Agentic AI**, **RAG**, **Computer Vision**, and **NLP** systems.
+
+- 💼 **AI Engineer (L2)** @ **Agentica AI** *(Aug 2026 – Present)*
+  - Building multi-agent AI systems, advanced RAG pipelines, and LLM applications.
+
+- 💼 **AI Engineer** @ **Interactive Cares** *(Jul 2025 – Jul 2026)*
+  - Built enterprise AI interview and chatbot systems.
+  - Optimized AI inference cost, latency, and scalability.
+
+- 💼 **AI Engineer** @ **DevTechGuru Limited** *(Jan 2024 – Jul 2025)*
+  - Developed healthcare AI, YOLO-based ANPR, and Django backend systems.
+
