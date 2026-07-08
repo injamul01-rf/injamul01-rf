@@ -5,10 +5,10 @@
 
 AI Engineer with experience building production-ready **LLM**, **Agentic AI**, **RAG**, **Computer Vision**, and **NLP** systems.
 
-- 💼 **AI Engineer (L2)** @ **Agentica AI** *(Aug 2026 – Present)*
+- 💼 **AI Engineer (L2)** @ **Agentica AI** *(July 2026 – Present)*
   - Building multi-agent AI systems, advanced RAG pipelines, and LLM applications.
 
-- 💼 **AI Engineer** @ **Interactive Cares** *(Jul 2025 – Jul 2026)*
+- 💼 **AI Engineer** @ **Interactive Cares** *(Jul 2025 – March 2026)*
   - Built enterprise AI interview and chatbot systems.
   - Optimized AI inference cost, latency, and scalability.
 
