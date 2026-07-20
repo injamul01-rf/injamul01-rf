@@ -4,4 +4,4 @@
 
 ##  About Me
 
-AI Engineer with experience building  **LLM**, **Agentic AI**, **RAG**, **Computer Vision**, and **NLP** systems.
+AI Engineer with experience building  **LLM**, **Agentic AI**, **RAG**, **Computer Vision**, and **NLP** systems. That's it !
